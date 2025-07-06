@@ -12,5 +12,6 @@ jobs:
         with:
           product-id: 211510
           schedule-id: 100001
+          seatgrade-id: 11
           slack-incoming-webhook-url: ${{ secrets.SLACK_WEBHOOK_URL }}
           message: '<@U12345678> 달려달려~'
