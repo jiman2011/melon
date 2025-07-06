@@ -12,4 +12,3 @@ jobs:
         with:
           product-id: 211510
           schedule-id: 100001
-          seat-id:
